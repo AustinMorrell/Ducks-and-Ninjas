@@ -1,0 +1,6 @@
+c:\users\austin.morrell\documents\visual studio 2015\Projects\Ninjas and Ducks\Ninjas and Ducks\bin\Debug\Ninjas and Ducks.exe.config
+c:\users\austin.morrell\documents\visual studio 2015\Projects\Ninjas and Ducks\Ninjas and Ducks\bin\Debug\Ninjas and Ducks.exe
+c:\users\austin.morrell\documents\visual studio 2015\Projects\Ninjas and Ducks\Ninjas and Ducks\bin\Debug\Ninjas and Ducks.pdb
+c:\users\austin.morrell\documents\visual studio 2015\Projects\Ninjas and Ducks\Ninjas and Ducks\obj\Debug\Ninjas and Ducks.csprojResolveAssemblyReference.cache
+c:\users\austin.morrell\documents\visual studio 2015\Projects\Ninjas and Ducks\Ninjas and Ducks\obj\Debug\Ninjas and Ducks.exe
+c:\users\austin.morrell\documents\visual studio 2015\Projects\Ninjas and Ducks\Ninjas and Ducks\obj\Debug\Ninjas and Ducks.pdb
